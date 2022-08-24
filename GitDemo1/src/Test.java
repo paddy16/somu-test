@@ -10,6 +10,7 @@ public class Test {
 			System.out.println("Let's eat something");
 		}else {
 			System.out.println("DO your work!!!");
+			System.out.println("Added this comment in GitHub...");
 		}
 		
 	}
