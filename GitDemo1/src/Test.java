@@ -8,6 +8,7 @@ public class Test {
 		
 		if (hungry == "yes") {
 			System.out.println("Let's eat something");
+			System.out.println("Added this comment in GitHub...");
 		}else {
 			System.out.println("DO your work!!!");
 			System.out.println("Added this comment in GitHub...");
